@@ -6,5 +6,9 @@ namespace PIS_Vjezba1
 {
     class Class1
     {
+        void main()
+        {
+            Console.WriteLine("Izmjena");
+        }
     }
 }
