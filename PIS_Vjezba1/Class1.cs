@@ -9,6 +9,7 @@ namespace PIS_Vjezba1
         void main()
         {
             Console.WriteLine("izmjena");
+            Console.WriteLine("merge");
         }
     }
 }
